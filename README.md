@@ -4,12 +4,14 @@ Hi 👋 My name is Konstantin Astashkin
 Junior Analyst
 --------------
 
-I study analytics and dream of working in Data Science. I am open to any internships and gaining experience. Sociable, positive, purposeful.
+I study analytics and dream of working in Data Science. Currently involved in a project where I am responsible for developing websites from the ground up using WordPress and similar CMS platforms. My role includes configuring SEO settings to optimize search rankings, generating traffic via Pinterest, and filling sites with content. I also engage in extensive data management tasks, including writing custom parsers to facilitate data integration with databases, as well as data cleaning and analysis. Regularly work with SQLite and OpenAI API.
+
+I am open to any internships and gaining experience. Sociable, positive, purposeful.
 
 *   🌍  I'm based in Bergen (Norway)
-*   👨‍💻  I'm working with **Pandas, BeautifulSoup**
-*   💻  Need more experience with **SQL, NumPy**
-*   🧠  I'm learning **Scikit-learn, Matplotlib, Statistics**
+*   👨‍💻  I'm currently working on a project with **pandas, openai, sqlite3**
+*   💻  Need more experience with **Scikit-learn, Matplotlib, Statistics**
+*   🧠  I'm learning **asyncio, OOP**
 *   🗣  I speak English(B2), Russian(C2), Norwegian(B1)
 *   ✉️  You can contact me at **[constantine.astashkin@gmail.com](mailto:constantine.astashkin@gmail.com)**
 
